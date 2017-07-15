@@ -1,6 +1,6 @@
 # Fan Led Display
 
-#### Viktor Slavkovic - A project at School of Electrical Engineering, University of Belgrade, Serbia
+#### A project at School of Electrical Engineering, University of Belgrade, Serbia
 
 #### Video demo on [YouTube](https://youtu.be/YXIKNycpRV0)
 
