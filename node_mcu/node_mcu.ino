@@ -58,8 +58,8 @@ void MainTimerCallback(void *pArg) {
 // WiFi
 ////////////////////////////////////////////////////////////////////////////////
 
-const char* kWiFiSSID = "Temp";
-const char* kWiFiPassword = "pajopajo95";
+const char* kWiFiSSID = "SSID";
+const char* kWiFiPassword = "PASSWORD";
 const int   kUdpServerPort = 12345;
 WiFiUDP udp_server;
 
